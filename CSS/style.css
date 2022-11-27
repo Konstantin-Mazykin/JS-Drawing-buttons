@@ -1,0 +1,28 @@
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 20px auto 40px auto;
+}
+
+.buttons button {
+    width: 15px;
+    height: 15px;
+    background-color: gray;
+    border-color: transparent;
+    border-radius: 50%;
+}
+
+.buttons #push_button {
+    background-color: blue;
+}
+
+.text {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.inputValue {
+    display: flex;
+    justify-content: center;
+}
