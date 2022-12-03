@@ -1,13 +1,14 @@
 .buttons {
     display: flex;
-    justify-content: space-around;
-    width: 500px;
+    justify-content: center;
+    width: 100%;
     margin: 20px auto 40px auto;
 }
 
 .buttons button {
     width: 15px;
     height: 15px;
+    margin: 0 1.5em 0 1.5em;
     background-color: gray;
     border-color: transparent;
     border-radius: 50%;
